@@ -243,7 +243,7 @@ li{
     background-color: white;
     border-radius: 15px;
 }
-.notification :hover{
+.notification:hover{
     width: 80px;
     transition-duration: 0.4s;
 }
